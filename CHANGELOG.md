@@ -3,6 +3,12 @@
 # tesshucom/jpsonic
 # -->
 
+## v2.3.0
+
+  * Security update (stax:CVE-2018-1000840)
+  * Fix for embedded Jetty compilation for evaluation purposes.
+  * Based on airsonic e4bb808 (2019-2) Pull translations from transifex.
+
 ## v2.2.6
 
   * Security update (jackson-databind:CVE-2018-19360 - CVE-2018-19362, CVE-2018-14718 - CVE-2018-14721)
